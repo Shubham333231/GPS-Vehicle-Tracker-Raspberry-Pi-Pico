@@ -39,8 +39,8 @@ GPS coordinates via Neo-6M module, parses NMEA sentences using
 MicropyGPS library, and transmits location data via SIM800L GSM module
 through SMS — including a clickable Google Maps link.
 
-**Key Achievement:** Full working system delivered under $30 vs
-$100+ commercial trackers.
+**Key Achievement:** Full working system delivered under ₹2.5k vs
+₹10k+ commercial trackers.
 
 ---
 
