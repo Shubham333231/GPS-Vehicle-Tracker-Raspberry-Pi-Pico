@@ -149,3 +149,37 @@ Click Run in Thonny
 GPS LED blinks → searching satellites
 GPS LED solid → fix acquired
 GSM LED blinks → network connected
+
+
+📊 Results
+✅ Real-time GPS tracking with ±2.5m accuracy
+✅ SMS delivery under 10 seconds
+✅ Google Maps link generation working
+✅ Remote commands (LOCATION, STATUS, HELP) functional
+✅ Non-blocking multitasking — GPS + GSM concurrent
+✅ Full system cost under 2.5k₹
+
+
+📚 Reference
+Project reference:
+ShahbazCoder1/GPS-Vehicle-Tracker
+
+👥 Team
+Name
+Roll No
+Shubham Sharma
+50
+Rohan Thok
+54
+Parth Wagh
+56
+Sahil Kurzekar
+31
+
+
+👤 Author
+Shubham Sharma
+B.Tech Electronics and Communication Engineering
+Matoshri College of Engineering, Nashik | CGPA: 7.91
+
+(https://linkedin.com/in/shubham-sharma-192b32341)
